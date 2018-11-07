@@ -1,0 +1,10 @@
+E:\SVN\Brainiac Designer\out\plugins\AIMind.dll
+E:\SVN\Brainiac Designer\out\plugins\AIMind.pdb
+E:\SVN\Brainiac Designer\AIMind\obj\Debug\AIMind.csprojResolveAssemblyReference.cache
+E:\SVN\Brainiac Designer\AIMind\obj\Debug\AIMind.dll
+E:\SVN\Brainiac Designer\AIMind\obj\Debug\AIMind.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\out\plugins\AIMind.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\out\plugins\AIMind.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\AIMind\obj\Debug\AIMind.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\AIMind\obj\Debug\AIMind.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\AIMind\obj\Debug\AIMind.csprojResolveAssemblyReference.cache

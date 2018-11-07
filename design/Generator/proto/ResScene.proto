@@ -1,0 +1,29 @@
+message ResScene {
+  /*
+ID
+  */
+  required int32 id = 2;
+  /*
+角色ID
+  */
+  required int32 actor_id = 3;
+  /*
+出生坐标x
+  */
+  required int32 pos_x = 4;
+  /*
+坐标z
+  */
+  required int32 pos_z = 5;
+  /*
+显示半径
+  */
+  required string range = 6;
+  /*
+刷新时间
+  */
+  required float reset_time = 7;
+}
+message ResScene_ARRAY {
+  repeated ResScene items = 1; // All config rows data.
+}

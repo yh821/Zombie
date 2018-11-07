@@ -1,0 +1,2 @@
+SVN clean失败解决方法
+http://blog.csdn.net/victory08/article/details/42100325

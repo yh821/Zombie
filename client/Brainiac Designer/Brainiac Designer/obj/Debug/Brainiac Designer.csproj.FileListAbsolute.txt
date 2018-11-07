@@ -1,0 +1,45 @@
+E:\SVN\Brainiac Designer\out\Brainiac Designer.exe.config
+E:\SVN\Brainiac Designer\out\Brainiac Designer.exe
+E:\SVN\Brainiac Designer\out\Brainiac Designer.pdb
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.csprojResolveAssemblyReference.cache
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.AboutBox.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeList.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeListDock.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeView.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeViewDock.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ControlsDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\CustomPropertyGridTest.DynamicPropertyGrid.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.EditWorkspaceDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ErrorCheckDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ExportDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.MainWindow.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.MainWindowCloseDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.PropertiesDock.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.Properties.Resources.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.SettingsDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.WorkspaceDialog.resources
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.csproj.GenerateResource.Cache
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.exe
+E:\SVN\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\out\Brainiac Designer.exe.config
+H:\SVN\BTDemo\Demo\Brainiac Designer\out\Brainiac Designer.exe
+H:\SVN\BTDemo\Demo\Brainiac Designer\out\Brainiac Designer.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.AboutBox.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeList.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeListDock.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeView.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.BehaviorTreeViewDock.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ControlsDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\CustomPropertyGridTest.DynamicPropertyGrid.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.EditWorkspaceDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ErrorCheckDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.ExportDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.MainWindow.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.MainWindowCloseDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.PropertiesDock.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.Properties.Resources.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.SettingsDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac.Design.WorkspaceDialog.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.csproj.GenerateResource.Cache
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.exe
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer\obj\Debug\Brainiac Designer.pdb

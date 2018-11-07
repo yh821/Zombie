@@ -1,0 +1,29 @@
+message ResExp {
+  /*
+等级
+  */
+  required int32 level = 2;
+  /*
+下限
+  */
+  required int32 min = 3;
+  /*
+上限
+  */
+  required int32 max = 4;
+  /*
+生命
+  */
+  required int32 hp_lmt = 5;
+  /*
+攻击
+  */
+  required int32 attack = 6;
+  /*
+防御
+  */
+  required int32 defence = 7;
+}
+message ResExp_ARRAY {
+  repeated ResExp items = 1; // All config rows data.
+}

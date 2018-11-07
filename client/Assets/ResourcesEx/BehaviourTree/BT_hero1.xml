@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Behavior>
+  <Node Class="Brainiac.Design.Nodes.Behavior" Version="0">
+    <Connector Identifier="GenericChildren">
+      <Node Class="AIMind.Nodes.CheckSelfNode" Version="0">
+        <Connector Identifier="ConditionTrue">
+          <Node Class="AIMind.Nodes.FindFollowTargetNode" Version="0">
+            <Connector Identifier="ConditionTrue">
+              <Node Class="AIMind.Nodes.FindAttackTargetNode" Version="0">
+                <Connector Identifier="ConditionTrue">
+                  <Node Class="AIMind.Nodes.SelectorNode" Version="0">
+                    <Connector Identifier="GenericChildren">
+                      <Node Class="AIMind.Nodes.ParallelNode" Version="0">
+                        <Connector Identifier="GenericChildren">
+                          <Node Class="AIMind.Nodes.TooFarFollowTargetNode" Version="0">
+                            <Connector Identifier="ConditionTrue">
+                              <Node Class="AIMind.Nodes.MoveToFollowTargetNode" Version="0" />
+                            </Connector>
+                          </Node>
+                          <Node Class="AIMind.Nodes.TrueNode" Version="0">
+                            <Connector Identifier="GenericChildren">
+                              <Node Class="AIMind.Nodes.CheckAttackRangeNode" Version="0">
+                                <Connector Identifier="ConditionTrue">
+                                  <Node Class="AIMind.Nodes.AttackTheTargetNode" Version="0" />
+                                </Connector>
+                              </Node>
+                            </Connector>
+                          </Node>
+                        </Connector>
+                      </Node>
+                      <Node Class="AIMind.Nodes.CheckAttackRangeNode" Version="0">
+                        <Connector Identifier="ConditionTrue">
+                          <Node Class="AIMind.Nodes.SequenceNode" Version="0">
+                            <Connector Identifier="GenericChildren">
+                              <Node Class="AIMind.Nodes.StopMoveToNode" Version="0" />
+                              <Node Class="AIMind.Nodes.AttackTheTargetNode" Version="0" />
+                            </Connector>
+                          </Node>
+                        </Connector>
+                        <Connector Identifier="ConditionFalse">
+                          <Node Class="AIMind.Nodes.MoveToAttackTargetNode" Version="0" />
+                        </Connector>
+                      </Node>
+                    </Connector>
+                  </Node>
+                </Connector>
+                <Connector Identifier="ConditionFalse">
+                  <Node Class="AIMind.Nodes.MoveToFollowTargetNode" Version="0" />
+                </Connector>
+              </Node>
+            </Connector>
+          </Node>
+        </Connector>
+      </Node>
+    </Connector>
+  </Node>
+</Behavior>

@@ -1,0 +1,85 @@
+message ResSkill {
+  /*
+ID
+  */
+  required int32 id = 2;
+  /*
+技能类型
+  */
+  required int32 type = 3;
+  /*
+等级
+  */
+  required int32 level = 4;
+  /*
+治愈值
+  */
+  required int32 hp = 5;
+  /*
+攻击间隔(毫秒)
+  */
+  required int32 attack_duration = 6;
+  /*
+子弹
+  */
+  required int32 bullet = 7;
+  /*
+食物
+  */
+  required int32 food = 8;
+  /*
+增加上限
+  */
+  required int32 hp_lmt = 9;
+  /*
+附加速度
+  */
+  required float sub_speed = 10;
+  /*
+攻击力
+  */
+  required int32 attack = 11;
+  /*
+防御力
+  */
+  required int32 defence = 12;
+  /*
+攻击距离
+  */
+  required float attack_dist = 13;
+  /*
+发现距离
+  */
+  required float find_dist = 14;
+  /*
+丢失距离
+  */
+  required float lose_dist = 15;
+  /*
+堆叠数
+  */
+  required int32 max_count = 16;
+  /*
+武器种类
+  */
+  required int32 kind = 17;
+  /*
+命中率
+  */
+  required int32 hit_ratio = 18;
+  /*
+闪避率
+  */
+  required int32 dodge_ratio = 19;
+  /*
+暴击率
+  */
+  required int32 crit_ratio = 20;
+  /*
+抗暴率
+  */
+  required int32 decrit_ratio = 21;
+}
+message ResSkill_ARRAY {
+  repeated ResSkill items = 1; // All config rows data.
+}

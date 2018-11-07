@@ -1,0 +1,41 @@
+message ResActor {
+  /*
+ID
+  */
+  required int32 id = 2;
+  /*
+角色类型
+  */
+  required int32 type = 3;
+  /*
+等级
+  */
+  required int32 level = 4;
+  /*
+预制名
+  */
+  required string prefab = 5;
+  /*
+身体半径
+  */
+  required float radius = 6;
+  /*
+初始技能
+  */
+  repeated int32 skills = 7;
+  /*
+自带道具
+  */
+  repeated int32 items = 8;
+  /*
+自身速度
+  */
+  required float speed = 9;
+  /*
+击杀经验
+  */
+  required int32 exp = 10;
+}
+message ResActor_ARRAY {
+  repeated ResActor items = 1; // All config rows data.
+}

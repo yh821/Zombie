@@ -1,0 +1,5 @@
+H:\SVN\zombie\client\Assets\Plugins\AIMind.dll
+H:\SVN\zombie\client\AIMind\obj\Release\AIMind.dll
+H:\SVN\zombie\client\AIMind\obj\Release\AIMind.csprojResolveAssemblyReference.cache
+D:\Projects\SVN\Zombie\client\Assets\Plugins\AIMind.dll
+D:\Projects\SVN\Zombie\client\AIMind\obj\Release\AIMind.dll

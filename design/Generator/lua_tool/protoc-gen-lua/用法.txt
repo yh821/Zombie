@@ -1,0 +1,1 @@
+E:\trunk_client\Python\Tools\protobuf-2.6.1\src\protoc.exe  --lua_out=./ --plugin=protoc-gen-lua=E:\trunk_client\Python\Tools\protoc-gen-lua\plugin\build.bat login.proto

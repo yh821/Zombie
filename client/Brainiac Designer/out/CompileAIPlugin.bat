@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe /t:library /r:./Brainiac.Design.dll /d:AIMind /out:.\plugins\AIMind.dll ..\..\AIMind\AIMind\Nodes\Action\*.cs ..\..\AIMind\AIMind\Nodes\Condition\*.cs ..\..\AIMind\AIMind\Nodes\Control\*.cs ..\..\AIMind\AIMind\Nodes\Decorator\*.cs ..\AIMind\AIMind.cs
+pause

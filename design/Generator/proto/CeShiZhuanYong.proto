@@ -1,0 +1,13 @@
+message CeShiZhuanYong {
+  /*
+id
+  */
+  required int32 id = 2;
+  /*
+name
+  */
+  required string name = 3;
+}
+message CeShiZhuanYong_ARRAY {
+  repeated CeShiZhuanYong items = 1; // All config rows data.
+}

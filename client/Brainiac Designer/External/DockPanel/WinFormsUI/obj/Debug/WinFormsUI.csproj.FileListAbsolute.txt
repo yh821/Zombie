@@ -1,0 +1,16 @@
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\SVN\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\External\DockPanel\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb

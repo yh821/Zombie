@@ -1,0 +1,28 @@
+E:\SVN\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.dll.config
+E:\SVN\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.dll
+E:\SVN\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.pdb
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac Designer Base.csprojResolveAssemblyReference.cache
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerNodePropertyEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerBooleanEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerEnumEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerNumberEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerPropertyEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerStringEditor.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Properties.Resources.resources
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac Designer Base.csproj.GenerateResource.Cache
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.dll
+E:\SVN\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.dll.config
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\bin\Debug\Brainiac.Design.pdb
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac Designer Base.csprojResolveAssemblyReference.cache
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerNodePropertyEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerBooleanEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerEnumEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerNumberEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerPropertyEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Attributes.DesignerStringEditor.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.Properties.Resources.resources
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac Designer Base.csproj.GenerateResource.Cache
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.dll
+H:\SVN\BTDemo\Demo\Brainiac Designer\Brainiac Designer Base\obj\Debug\Brainiac.Design.pdb

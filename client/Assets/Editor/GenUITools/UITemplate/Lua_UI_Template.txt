@@ -1,0 +1,28 @@
+--UI View Gen From GenUITools
+--Please Don't Modify!
+
+{#class#} = {}  
+
+function {#class#}:InitControl()  
+{#init#}
+end 
+  
+function {#class#}:New(o)  
+    o = o or {};
+    setmetatable(o,self)  
+    self.__index = self
+
+    return o  
+end 
+
+function {#class#}.Create(objUI)
+    {#class#}:Init(objUI);
+end
+
+function {#class#}:Init(objUI)
+	if null ~= objUI then
+	    gameObject = objUI;
+		transform = gameObject.transform;
+        self:InitControl(); 
+	end
+end

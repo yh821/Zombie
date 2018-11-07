@@ -1,0 +1,6 @@
+1、proto 转换为lua形式输出
+	执行上级目录proto/中的export_lua.py脚本 文件输出在lua/中
+	
+注意事项:
+若转换出错，请先执行当前目录的tranfer_temp.py脚本将proto的文本格式编码转换
+再执行export_lua.py脚本
